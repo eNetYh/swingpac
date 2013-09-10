@@ -9,7 +9,7 @@ public class Simple extends Bidule {
   
   public Simple() {
     super("Simple");
-    setBackground(Color.GREEN);    
+    setBackground(Color.PINK);    
   }
 
   @Override
